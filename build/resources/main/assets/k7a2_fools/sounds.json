@@ -1,0 +1,56 @@
+{
+  "nhuanhdathayem": {
+    "subtitle": "subtitles.nhuanhdathayem",
+    "sounds": [
+      {
+        "name": "k7a2_fools:y2mate.com_-_nhu_anh_da_thay_em_cttde2_phucxp_ft_freak_d",
+        "stream": true
+      }
+    ]
+  },
+  "saigonhomnaymua": {
+    "subtitle": "subtitles.saigonhomnaymua",
+    "sounds": [
+      {
+        "name": "k7a2_fools:y2mate.com_-_sai_gon_hom_nay_mua_jsol_x_hoang_duyen_official_mv",
+        "stream": true
+      }
+    ]
+  },
+  "saoanhchuavenha": {
+    "subtitle": "subtitles.saoanhchuavenha",
+    "sounds": [
+      {
+        "name": "k7a2_fools:y2mate.com_-_sao_anh_chua_ve_nha_feat_ricky_star",
+        "stream": true
+      }
+    ]
+  },
+  "xedaplachcach": {
+    "subtitle": "subtitles.xedaplachcach",
+    "sounds": [
+      {
+        "name": "k7a2_fools:y2mate.com_-_xe_dap_lach_cach_toi_van_chua_quen_duong_toi_cho_em_ve_buitruonglinh_lyric_video.ogg",
+        "stream": true
+      }
+    ]
+  },
+  "ketheoduoianhsang": {
+    "subtitle": "subtitles.ketheoduoianhsang",
+    "sounds": [
+      {
+        "name": "k7a2_fools:yt1s.com_-_ke_theo_duoi_anh_sang_lofi_ver_huy_vac_x_tien_nguyen_x_freak_d",
+        "stream": true
+      }
+    ]
+  },
+  "yeudonphuonglagi": {
+    "subtitle": "subtitles.yeudonphuonglagi",
+    "sounds": [
+      {
+        "name": "k7a2_fools:yt1s.com_-_yeu_don_phuong_la_gi_la_ngoc_chang_dam_noi_ra_yeu_don_phuong_la_gi_lofi_h0n_x_bui_chill.ogg",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "k7a2_fools:thl_aggressive_block"
+    },
+    "title": {
+      "translate": "advancements.omg_it_so_fast.title"
+    },
+    "description": {
+      "translate": "advancements.omg_it_so_fast.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "omg_it_so_fast_0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "k7a2_fools:thl_angry_biome"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "k7a2_fools:halloween_and_april_fools"
+}

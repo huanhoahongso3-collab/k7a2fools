@@ -1,0 +1,24 @@
+{
+  "_fv": 79,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Good Bye Good Luck",
+    "achievementDescription": "Bye bye..",
+    "achievementIcon": {
+      "value": "CUSTOM:XeDapLachCach"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 17,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:HalloweenAndAprilFools"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"dimension_left\"><field name=\"dimension\">CUSTOM:THLDimension</field></block></next></block></xml>"
+  }
+}

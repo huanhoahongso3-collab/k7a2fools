@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "k7a2_fools:thl_ore_dust"
+    }
+  },
+  "result": {
+    "item": "k7a2_fools:thl_armor_boots",
+    "count": 1
+  }
+}

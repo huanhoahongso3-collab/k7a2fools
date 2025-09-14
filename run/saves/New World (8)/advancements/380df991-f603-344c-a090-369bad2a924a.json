@@ -1,0 +1,40 @@
+{
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-14 11:29:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-14 11:28:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-14 11:29:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2025-09-14 11:28:42 +0700",
+      "minecraft:cold_ocean": "2025-09-14 11:29:08 +0700"
+    },
+    "done": false
+  },
+  "k7a2_fools:halloween_and_april_fools": {
+    "criteria": {
+      "halloween_and_april_fools_0": "2025-09-14 11:29:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-14 11:29:12 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

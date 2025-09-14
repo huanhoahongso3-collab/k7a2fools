@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "bark",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:THLWoodLog"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:THLWoodLog"
+      },
+      {
+        "value": "CUSTOM:THLWoodLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:THLWoodLog"
+      },
+      {
+        "value": "CUSTOM:THLWoodLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:THLWoodWood"
+    },
+    "name": "thl_wood_wood_recipe",
+    "namespace": "mod"
+  }
+}

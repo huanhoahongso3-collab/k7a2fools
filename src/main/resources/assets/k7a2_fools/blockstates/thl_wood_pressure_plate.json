@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "k7a2_fools:block/thl_wood_pressure_plate"
+    },
+    "powered=true": {
+      "model": "k7a2_fools:block/thl_wood_pressure_plate_down"
+    }
+  }
+}

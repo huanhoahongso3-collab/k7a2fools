@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2_fools:block/cute-anime-uptxxcxl4h2zoe9r",
+    "up": "k7a2_fools:block/cute-anime-uptxxcxl4h2zoe9r",
+    "north": "k7a2_fools:block/cute-anime-uptxxcxl4h2zoe9r",
+    "east": "k7a2_fools:block/cute-anime-uptxxcxl4h2zoe9r",
+    "south": "k7a2_fools:block/cute-anime-uptxxcxl4h2zoe9r",
+    "west": "k7a2_fools:block/cute-anime-uptxxcxl4h2zoe9r",
+    "particle": "k7a2_fools:block/cute-anime-uptxxcxl4h2zoe9r"
+  },
+  "render_type": "solid"
+}

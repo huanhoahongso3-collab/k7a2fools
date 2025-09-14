@@ -1,0 +1,41 @@
+{
+  "textures": {
+    "particle": "k7a2_fools:block/1cdd2fe0d9e09d886acb186e0facfc20",
+    "portal": "k7a2_fools:block/1cdd2fe0d9e09d886acb186e0facfc20"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        0,
+        0
+      ],
+      "to": [
+        10,
+        16,
+        16
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal"
+        }
+      }
+    }
+  ],
+  "render_type": "translucent"
+}

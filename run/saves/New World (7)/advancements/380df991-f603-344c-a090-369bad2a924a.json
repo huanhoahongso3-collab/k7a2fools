@@ -1,0 +1,41 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-09-14 11:26:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-14 11:24:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-09-14 11:27:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-09-14 11:26:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-09-14 11:24:48 +0700",
+      "minecraft:snowy_plains": "2025-09-14 11:26:05 +0700",
+      "minecraft:frozen_ocean": "2025-09-14 11:26:17 +0700"
+    },
+    "done": false
+  },
+  "k7a2_fools:halloween_and_april_fools": {
+    "criteria": {
+      "halloween_and_april_fools_0": "2025-09-14 11:26:32 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

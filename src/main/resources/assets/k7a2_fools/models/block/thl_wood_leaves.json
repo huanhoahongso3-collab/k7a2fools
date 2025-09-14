@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "k7a2_fools:block/thl_wood_leaves",
+    "particle": "k7a2_fools:block/thl_wood_leaves"
+  }
+}

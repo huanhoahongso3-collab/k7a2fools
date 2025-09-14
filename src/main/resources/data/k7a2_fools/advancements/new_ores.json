@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "k7a2_fools:thl_ore_dust"
+    },
+    "title": {
+      "translate": "advancements.new_ores.title"
+    },
+    "description": {
+      "translate": "advancements.new_ores.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "new_ores_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "k7a2_fools:thl_ore_dust"
+            ],
+            "count": {
+              "min": 1,
+              "max": 9999999999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200
+  },
+  "parent": "k7a2_fools:halloween_and_april_fools"
+}

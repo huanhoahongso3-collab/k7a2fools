@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "k7a2_fools:item/hammer-removebg-preview"
+  }
+}

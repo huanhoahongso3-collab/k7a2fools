@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "k7a2_fools:blocks/thl_wood_planks",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "k7a2_fools:thl_wood_planks"
+        }
+      ]
+    }
+  ]
+}

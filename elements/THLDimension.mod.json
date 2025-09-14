@@ -1,0 +1,72 @@
+{
+  "_fv": 79,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:THLNormalBiome"
+      },
+      {
+        "value": "CUSTOM:THLAngryBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:THLMainBlock"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:THLFluid"
+    },
+    "seaLevel": 63,
+    "generateOreVeins": false,
+    "generateAquifers": true,
+    "horizontalNoiseSize": 1,
+    "verticalNoiseSize": 1,
+    "defaultEffects": "the_nether",
+    "useCustomEffects": false,
+    "hasClouds": true,
+    "cloudHeight": 192.0,
+    "skyType": "NONE",
+    "sunHeightAffectsFog": false,
+    "canRespawnHere": false,
+    "hasFog": false,
+    "ambientLight": 0.0,
+    "doesWaterVaporize": true,
+    "hasFixedTime": true,
+    "fixedTimeValue": 15600,
+    "coordinateScale": 1.0,
+    "infiniburnTag": "minecraft:infiniburn_overworld",
+    "bedWorks": false,
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "piglinSafe": true,
+    "hasRaids": false,
+    "minMonsterSpawnLightLimit": 0,
+    "maxMonsterSpawnLightLimit": 7,
+    "monsterSpawnBlockLightLimit": 0,
+    "portalFrame": {
+      "value": "CUSTOM:THLPortalBlock"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "enableIgniter": true,
+    "igniterName": "THL Dimension Portal Igniter",
+    "igniterRarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:K7A2HalloweenAndAprilFools"
+      }
+    ],
+    "texture": "batlua",
+    "portalTexture": "1cdd2fe0d9e09d886acb186e0facfc20",
+    "enablePortal": true
+  }
+}

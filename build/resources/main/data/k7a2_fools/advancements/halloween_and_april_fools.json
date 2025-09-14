@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "k7a2_fools:textures/screens/dev.png",
+    "icon": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "title": {
+      "translate": "advancements.halloween_and_april_fools.title"
+    },
+    "description": {
+      "translate": "advancements.halloween_and_april_fools.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "halloween_and_april_fools_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "k7a2_fools:thl_dimension"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

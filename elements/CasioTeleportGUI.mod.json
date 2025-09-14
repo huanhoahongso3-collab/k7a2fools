@@ -1,0 +1,90 @@
+{
+  "_fv": 79,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_casio_teleporter",
+          "text": {
+            "fixedValue": "Casio - Teleporter"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 163,
+          "y": 45,
+          "locked": false
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "X",
+          "name": "X",
+          "width": 120,
+          "height": 20,
+          "x": 155,
+          "y": 68,
+          "locked": false
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Y",
+          "name": "Y",
+          "width": 120,
+          "height": 20,
+          "x": 155,
+          "y": 110,
+          "locked": false
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Z",
+          "name": "Z",
+          "width": 120,
+          "height": 20,
+          "x": 155,
+          "y": 149,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_ok",
+          "text": "Ok",
+          "isUndecorated": true,
+          "onClick": {
+            "name": "CasioTeleportFunc"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 208,
+          "y": 178,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

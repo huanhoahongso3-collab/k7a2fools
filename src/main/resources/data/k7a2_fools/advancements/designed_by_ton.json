@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "k7a2_fools:thl_sword"
+    },
+    "title": {
+      "translate": "advancements.designed_by_ton.title"
+    },
+    "description": {
+      "translate": "advancements.designed_by_ton.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "designed_by_ton_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "k7a2_fools:thl_sword"
+            ],
+            "count": {
+              "min": 1,
+              "max": 999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  },
+  "parent": "k7a2_fools:new_ores"
+}

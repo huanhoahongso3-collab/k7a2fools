@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "k7a2_fools:item/461678775_1079027850603603_3579012283436720875_n"
+  }
+}

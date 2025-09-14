@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "k7a2_fools:castle",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 56,
+    "separation": 2,
+    "salt": 931297152
+  }
+}

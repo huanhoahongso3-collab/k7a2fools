@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "k7a2_fools:thl_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "k7a2_fools:thl_wood_button",
+    "count": 1
+  }
+}

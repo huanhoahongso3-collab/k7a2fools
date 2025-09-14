@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "k7a2_fools:thl_portal",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 26,
+    "separation": 5,
+    "salt": 1043996134
+  }
+}

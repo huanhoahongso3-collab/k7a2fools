@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "k7a2_fools:thl_ore_dust"
+    }
+  },
+  "result": {
+    "item": "k7a2_fools:thl_ore_block",
+    "count": 1
+  }
+}

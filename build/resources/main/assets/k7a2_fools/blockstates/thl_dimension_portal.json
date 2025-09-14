@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "k7a2_fools:block/thl_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "k7a2_fools:block/thl_dimension_portal_ns"
+    }
+  }
+}

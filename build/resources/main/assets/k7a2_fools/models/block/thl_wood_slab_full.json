@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "k7a2_fools:block/thl_wood_planks",
+    "bottom": "k7a2_fools:block/thl_wood_planks",
+    "top": "k7a2_fools:block/thl_wood_planks",
+    "side": "k7a2_fools:block/thl_wood_planks"
+  },
+  "render_type": "solid"
+}

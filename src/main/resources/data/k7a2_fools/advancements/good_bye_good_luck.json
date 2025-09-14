@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "k7a2_fools:xe_dap_lach_cach"
+    },
+    "title": {
+      "translate": "advancements.good_bye_good_luck.title"
+    },
+    "description": {
+      "translate": "advancements.good_bye_good_luck.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "good_bye_good_luck_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "k7a2_fools:thl_dimension"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 17
+  },
+  "parent": "k7a2_fools:halloween_and_april_fools"
+}

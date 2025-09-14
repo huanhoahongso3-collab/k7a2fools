@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "casio",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "d": {
+      "item": "minecraft:quartz"
+    },
+    "e": {
+      "item": "minecraft:gold_ingot"
+    },
+    "f": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "k7a2_fools:casio",
+    "count": 4
+  }
+}

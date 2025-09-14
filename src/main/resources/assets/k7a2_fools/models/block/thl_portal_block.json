@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2_fools:block/1cdd2fe0d9e09d886acb186e0facfc20",
+    "up": "k7a2_fools:block/1cdd2fe0d9e09d886acb186e0facfc20",
+    "north": "k7a2_fools:block/1cdd2fe0d9e09d886acb186e0facfc20",
+    "east": "k7a2_fools:block/1cdd2fe0d9e09d886acb186e0facfc20",
+    "south": "k7a2_fools:block/1cdd2fe0d9e09d886acb186e0facfc20",
+    "west": "k7a2_fools:block/1cdd2fe0d9e09d886acb186e0facfc20",
+    "particle": "k7a2_fools:block/1cdd2fe0d9e09d886acb186e0facfc20"
+  },
+  "render_type": "solid"
+}

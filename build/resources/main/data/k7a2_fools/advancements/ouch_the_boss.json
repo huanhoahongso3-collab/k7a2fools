@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "k7a2_fools:thl_axe"
+    },
+    "title": {
+      "translate": "advancements.ouch_the_boss.title"
+    },
+    "description": {
+      "translate": "advancements.ouch_the_boss.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ouch_the_boss_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1000
+  },
+  "parent": "k7a2_fools:halloween_and_april_fools"
+}

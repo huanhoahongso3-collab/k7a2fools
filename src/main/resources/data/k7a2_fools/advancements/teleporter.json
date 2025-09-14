@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "k7a2_fools:casio"
+    },
+    "title": {
+      "translate": "advancements.teleporter.title"
+    },
+    "description": {
+      "translate": "advancements.teleporter.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "teleporter_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "k7a2_fools:casio"
+            ],
+            "count": {
+              "min": 1,
+              "max": 10000000000000000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1560
+  },
+  "parent": "minecraft:nether/obtain_ancient_debris"
+}

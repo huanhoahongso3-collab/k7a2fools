@@ -1,0 +1,8 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "particle": "k7a2_fools:block/thl_wood_planks",
+    "texture": "k7a2_fools:block/thl_wood_planks"
+  },
+  "render_type": "solid"
+}

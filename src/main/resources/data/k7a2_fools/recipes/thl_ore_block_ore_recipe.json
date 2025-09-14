@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "k7a2_fools:thl_ore_block"
+    }
+  ],
+  "result": {
+    "item": "k7a2_fools:thl_ore_dust",
+    "count": 9
+  }
+}
