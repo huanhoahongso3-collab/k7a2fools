@@ -1425,8 +1425,8 @@
   "workspaceSettings": {
     "modid": "k7a2_fools",
     "modName": "k7a2_fools",
-    "version": "1.5.6.0",
-    "description": "A Foss Version of K7A2 Fools",
+    "version": "1.5.6.1",
+    "description": "A FOSS Version of K7A2 Fools",
     "author": "DHPhuc",
     "websiteURL": "https://phucdh0110.localplayer.dev",
     "license": "GNU General Public License version 3 (GPLv3)",

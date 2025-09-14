@@ -4,13 +4,13 @@ license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="k7a2_fools"
-version="1.5.6.0"
+version="1.5.6.1"
 displayName="k7a2_fools"
 displayURL="https://phucdh0110.localplayer.dev"
 logoFile="logo.png"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="DHPhuc"
-description="A Foss Version of K7A2 Fools"
+description="A FOSS Version of K7A2 Fools"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration

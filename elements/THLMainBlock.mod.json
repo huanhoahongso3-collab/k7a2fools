@@ -42,7 +42,7 @@
     },
     "hardness": 10.0,
     "resistance": 20.0,
-    "hasGravity": true,
+    "hasGravity": false,
     "isWaterloggable": false,
     "hasBlockItem": true,
     "maxStackSize": 64,
