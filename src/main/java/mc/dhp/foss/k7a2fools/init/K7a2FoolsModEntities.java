@@ -38,7 +38,7 @@ public class K7a2FoolsModEntities {
 	public static final RegistryObject<EntityType<NganBaoVeEntity>> NGAN_BAO_VE = register("ngan_bao_ve", EntityType.Builder.<NganBaoVeEntity>of(NganBaoVeEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64)
 			.setUpdateInterval(3).setCustomClientFactory(NganBaoVeEntity::new).fireImmune().sized(0.6f, 1.8f));
 	public static final RegistryObject<EntityType<BossTHLEntity>> BOSS_THL = register("boss_thl",
-			EntityType.Builder.<BossTHLEntity>of(BossTHLEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(156).setUpdateInterval(3).setCustomClientFactory(BossTHLEntity::new)
+			EntityType.Builder.<BossTHLEntity>of(BossTHLEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(5).setUpdateInterval(3).setCustomClientFactory(BossTHLEntity::new)
 
 					.sized(0.6f, 1.8f));
 
