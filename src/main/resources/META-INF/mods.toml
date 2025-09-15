@@ -4,11 +4,11 @@ license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="k7a2_fools"
-version="1.5.6.2"
+version="1.5.6.3"
 displayName="k7a2_fools"
 displayURL="https://phucdh0110.localplayer.dev"
 logoFile="logo.png"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="Thanks Ton Lai for des, Thanh for spon"
 authors="DHPhuc"
 description="A FOSS Version of K7A2 Fools"
 
