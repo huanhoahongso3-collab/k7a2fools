@@ -1392,7 +1392,8 @@
       "advancements.cover_me_in_thl.descr": "Wear THL Armor",
       "advancements.cover_me_in_thl.title": "Cover Me In THL",
       "advancements.teleporter.descr": "Teleport me to anywhere I want!",
-      "advancements.teleporter.title": "Teleporter"
+      "advancements.teleporter.title": "Teleporter",
+      "item.k7a2_fools.thl_armor_helmet.description_0": "Made by daanosaurusrex on sketchfab.com"
     },
     "vi_vn": {
       "item_group.k7a2_fools.k_7_a_2_halloween_and_april_fools": "K 7 A 2 Halloween và Cá tháng Tư",
@@ -1481,7 +1482,8 @@
       "advancements.cover_me_in_thl.descr": "Mặc áo giáp THL",
       "advancements.cover_me_in_thl.title": "Che tôi trong THL",
       "advancements.teleporter.descr": "Dịch chuyển tôi đến bất cứ nơi nào tôi muốn!",
-      "advancements.teleporter.title": "Máy dịch chuyển tức thời"
+      "advancements.teleporter.title": "Máy dịch chuyển tức thời",
+      "item.k7a2_fools.thl_armor_helmet.description_0": "Made by daanosaurusrex on sketchfab.com"
     }
   },
   "metadata": {
@@ -1514,7 +1516,7 @@
   "workspaceSettings": {
     "modid": "k7a2_fools",
     "modName": "k7a2_fools",
-    "version": "1.5.6.5",
+    "version": "1.5.7",
     "description": "A FOSS Version of K7A2 Fools",
     "author": "DHPhuc",
     "websiteURL": "https://phucdh0110.localplayer.dev",

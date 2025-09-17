@@ -59,18 +59,18 @@ public abstract class THLArmorItem extends ArmorItem {
 
 	public static class Helmet extends THLArmorItem {
 		public Helmet() {
-			super(ArmorItem.Type.HELMET, new Item.Properties());
+			super(ArmorItem.Type.HELMET, new Item.Properties().fireResistant());
 		}
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "k7a2_fools:textures/models/armor/thl_layer_1.png";
+			return "k7a2_fools:textures/entities/gold.png";
 		}
 	}
 
 	public static class Chestplate extends THLArmorItem {
 		public Chestplate() {
-			super(ArmorItem.Type.CHESTPLATE, new Item.Properties());
+			super(ArmorItem.Type.CHESTPLATE, new Item.Properties().fireResistant());
 		}
 
 		@Override
@@ -81,7 +81,7 @@ public abstract class THLArmorItem extends ArmorItem {
 
 	public static class Leggings extends THLArmorItem {
 		public Leggings() {
-			super(ArmorItem.Type.LEGGINGS, new Item.Properties());
+			super(ArmorItem.Type.LEGGINGS, new Item.Properties().fireResistant());
 		}
 
 		@Override
@@ -92,7 +92,7 @@ public abstract class THLArmorItem extends ArmorItem {
 
 	public static class Boots extends THLArmorItem {
 		public Boots() {
-			super(ArmorItem.Type.BOOTS, new Item.Properties());
+			super(ArmorItem.Type.BOOTS, new Item.Properties().fireResistant());
 		}
 
 		@Override

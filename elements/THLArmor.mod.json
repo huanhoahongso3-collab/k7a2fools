@@ -3,7 +3,7 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "vuongmien",
+    "textureHelmet": "totem_of_undying",
     "enableBody": true,
     "textureBody": "thl_body",
     "enableLeggings": true,
@@ -34,7 +34,7 @@
     },
     "helmetModelName": "Default",
     "helmetModelPart": "Helmet",
-    "helmetModelTexture": "From armor",
+    "helmetModelTexture": "gold.png",
     "bodyModelName": "Default",
     "bodyModelPart": "Body",
     "armsModelPartL": "Arms L",
@@ -56,10 +56,10 @@
     "leggingsItemCustomModelName": "Normal",
     "bootsItemRenderType": 0,
     "bootsItemCustomModelName": "Normal",
-    "helmetImmuneToFire": false,
-    "bodyImmuneToFire": false,
-    "leggingsImmuneToFire": false,
-    "bootsImmuneToFire": false,
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
     "helmetGlowCondition": {
       "fixedValue": false
     },
